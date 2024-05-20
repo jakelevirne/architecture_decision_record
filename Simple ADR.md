@@ -9,7 +9,7 @@ Meaningful title of the decision
 
 ## Status
 
-Roposed, accepted, rejected, deprecated, superseded, etc.?
+Proposed, accepted, rejected, deprecated, superseded, etc.?
 
 ## Context
 
